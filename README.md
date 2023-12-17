@@ -7,3 +7,5 @@ The game can be played by simply running main_1 in the build folder. Prompts wil
 One of the main goals of this project was to use various classes across multiple .cpp and .h files within the code folder to create a streamlined algorithm for gameplay logic within main_1.cpp. Using class functions across multiple files allowed me to keep the code within main_1.cpp short and readable, and was a useful exercise in tracking how functions in different locations relate to one another. 
 
 Here is a link to a video demonstrating how to run the program:
+
+https://www.youtube.com/watch?v=knGz2UnspxA
