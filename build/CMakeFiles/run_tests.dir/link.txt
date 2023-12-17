@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -std=c++11 -Wall -g -rdynamic CMakeFiles/run_tests.dir/tests/test_BlackJack.cpp.o CMakeFiles/run_tests.dir/code/Card.cpp.o CMakeFiles/run_tests.dir/code/Deck.cpp.o CMakeFiles/run_tests.dir/code/Game.cpp.o -o run_tests  -lgtest_main /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 
